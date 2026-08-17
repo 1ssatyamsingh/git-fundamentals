@@ -7,3 +7,8 @@ git log -> Displays the commit history(commits, authors, dates) of the repo
 git push -> uploads your local commits and branches to a remote repo 
 git pull -> fetches updates from a repo and merges them into your cur local branch
 git fetch -> only fetches updates from a repo (no merge)
+
+GIT OBJECTS
+Blob -> stores the raw file data of a tracked file without saving its file name, path or permissions.
+Tree -> represents a dir, storing filenames, file modes/permissions and pointersto associated blobs and nested trees.
+Commit -> stores metadata - including author, committer, timestamp, and commit message
