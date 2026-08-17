@@ -1,3 +1,9 @@
-This is my first line
-E dusar line ba
-this is my third line
+git init -> initializes a new, empty Git repo
+git config -> sets, retrieves, or manages config settings
+git status -> Displays the current state of your working directory
+git add -> adds changes in your working directory
+git commit -> Records the staged changes permanently in repo's history
+git log -> Displays the commit history(commits, authors, dates) of the repo
+git push -> uploads your local commits and branches to a remote repo 
+git pull -> fetches updates from a repo and merges them into your cur local branch
+git fetch -> only fetches updates from a repo (no merge)
