@@ -12,3 +12,4 @@ GIT OBJECTS
 Blob -> stores the raw file data of a tracked file without saving its file name, path or permissions.
 Tree -> represents a dir, storing filenames, file modes/permissions and pointersto associated blobs and nested trees.
 Commit -> stores metadata - including author, committer, timestamp, and commit message
+add something
